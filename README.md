@@ -28,6 +28,12 @@ SMS Spoofer is a tool for social engineering attacks.
 
 If you are interested in purchasing this project, you can purchase it by purchasing the source code of this application. The application is made in PHP and includes information on how to configure it and how to configure the API of the SMS provider.
 
+ ## Buy a pincode 🔑 (spoofing service)
+ 
+If you are interested in using the application already ready for use, you can buy a pincode to use unlimitedly for half a year or a year.
+
+Contact: **https://t.me/henszac** or **contact@henszac.com**
+
 Contact: **https://t.me/henszac** or **contact@henszac.com**
 
 # DISCLAIMER 📜
